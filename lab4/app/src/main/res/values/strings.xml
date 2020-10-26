@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MaterialLoginPage</string>
+    <string name="top_icon">TOP ICON</string>
+    <string name="username">Username</string>
+    <string name="password"> Enter password</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="forgot_password">FORGOT PASSWORD?</string>
+    <string name="or">OR</string>
+    <string name="google_icon">google icon</string>
+    <string name="facebook_icon">facebook icon</string>
+    <string name="new_user_register_now">New User? Register Now</string>
+    <string name="change_password">Change password</string>
+    <string name="save">Save</string>
+    <string name="mobile">Mobile</string>
+    <string name="gender">Gender</string>
+    <string name="age">Age</string>
+    <string name="name">Name</string>
+    <string name="cancel">Cancel</string>
+    <string name="reenter_new_pass">Reenter new pass</string>
+    <string name="enter_new_pass">Enter new pass</string>
+    <string name="old_password">Old password</string>
+    <string name="preference_file_key">key</string>
+</resources>
