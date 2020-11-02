@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">lab6</string>
+    <string name="lastName">Овог</string>
+    <string name="firstName">Нэр</string>
+    <string name="gender">Хүйс</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cnt">Цааш</string>
+    <string name="type">Төрөл</string>
+    <string name="lessons">Хичээлүүд</string>
+    <string name="angi">Анги</string>
+    <string name="surguul">Сургууль</string>
+    <string name="gpa">GPA</string>
+    <string name="course">course</string>
+    <string name="zereg">Зэрэг</string>
+</resources>
